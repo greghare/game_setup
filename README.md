@@ -8,3 +8,4 @@ Configures Windows screen resolution, GPU overclocking profile (using MSI Afterb
    For example, if you want to game in 1080p and use 1440p for everyday tasks, drag the "Switch to HD (Game)" and "Switch to 2K (Regular)" shorcuts to your taskbar
 
 If you don't have a high refresh rate monitor, you can remove the /f=144 from the .bat scripts or set it to your refresh rate
+The overclock profile for gaming in MSI Afterburner should be saved to Profile 1 and your regular profile should be saved to Profile 2 (or you can edit the .bat scripts)
